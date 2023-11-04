@@ -1,4 +1,4 @@
-// Reference type --> object
+{// Reference type --> object
 
 const user : {
     name: "sajib"; // literal type
@@ -17,4 +17,5 @@ const user : {
         name: "PB",
         address: "Rangpur"
     }
+}
 }

@@ -1,4 +1,4 @@
-function addName(name: string):string {
+{function addName(name: string):string {
     return name;
 }
 
@@ -22,4 +22,4 @@ const PoorPerson = {
 
 const newArry : number[] = [1, 2, 4,5];
 
-const maping : number[] = newArry.map((element : number) : number => element * 2);
+const maping : number[] = newArry.map((element : number) : number => element * 2);}

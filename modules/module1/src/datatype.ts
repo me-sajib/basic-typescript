@@ -1,4 +1,4 @@
-//string
+{//string
 let name1 : string = "sajib";
 
 // number
@@ -13,3 +13,4 @@ let names : string[] = ["sajib", "sakib"];
 // tuple
 let person : [string, number] = ["sajib", 33];
 
+}
